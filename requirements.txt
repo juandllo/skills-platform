@@ -1,0 +1,6 @@
+PySide6
+markdown
+markdown-it-py
+pygments
+gitpython
+python-dotenv

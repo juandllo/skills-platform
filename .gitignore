@@ -1,0 +1,38 @@
+# Entorno de desarrollo
+.venv/
+venv/
+env/
+bin/
+lib/
+include/
+pyvenv.cfg
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Configuración y Secretos (CRÍTICO)
+.env
+.env.*
+!.env.example
+
+# IDEs y Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema Operativo
+.DS_Store
+Thumbs.db
+
+# Archivos Locales de la Aplicación
+.skills-platform/
+repository/
+
+# Distribución / Build
+dist/
+build/
+*.spec
